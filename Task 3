@@ -1,4 +1,4 @@
-Task 3 " Loops and Conditions " 
+/* Task 3 - " Loops and Conditions " */
 
 #include <iostream>
 using namespace std;
